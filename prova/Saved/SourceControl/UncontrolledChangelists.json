@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Pc/Desktop/prova/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Pc/Desktop/prova/Content/duck/source/lambert2.uasset",
+				"C:/Users/Pc/Desktop/prova/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"C:/Users/Pc/Desktop/prova/Content/duck/textures/jaaaaa_klaar.uasset",
+				"C:/Users/Pc/Desktop/prova/Content/duck/source/ruber_duck.uasset",
+				"C:/Users/Pc/Desktop/prova/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Pc/Desktop/prova/Content/Vehicles/SportsCar/Materials/sd.uasset",
+				"C:/Users/Pc/Desktop/prova/Content/mirror/mirrorCenter.uasset",
+				"C:/Users/Pc/Desktop/prova/Content/mirror/mirrorCenters.uasset",
+				"C:/Users/Pc/Desktop/prova/Content/mirror/mirrorLeft.uasset",
+				"C:/Users/Pc/Desktop/prova/Content/mirror/mirrorLeft2.uasset",
+				"C:/Users/Pc/Desktop/prova/Content/mirror/mirrorRight.uasset",
+				"C:/Users/Pc/Desktop/prova/Content/mirror/mirrorRights.uasset",
+				"C:/Users/pol.valverde/Desktop/MusicProj/prova/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/pol.valverde/Desktop/MusicProj/prova/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_TorqueCurve.uasset",
+				"C:/Users/pol.valverde/Desktop/MusicProj/prova/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"C:/Users/pol.valverde/Desktop/MusicProj/prova/Content/VehicleTemplate/Blueprints/VehicleAdvGameMode.uasset",
+				"C:/Users/pol.valverde/Desktop/MusicProj/prova/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/pol.valverde/Desktop/MusicProj/prova/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_TorqueCurve.uasset",
+				"C:/Users/pol.valverde/Desktop/MusicProj/prova/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront.uasset",
+				"C:/Users/pol.valverde/Desktop/MusicProj/prova/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/1D/ZWIX8LFX23VAUCOZM580QP.uasset",
+				"C:/Users/pol.valverde/Desktop/MusicProj/prova/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/KA/641DILFS056EAGXA96WARU.uasset",
+				"C:/Users/pol.valverde/Desktop/MusicProj/prova/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/S7/2NX9ZP7Z2SEKB8KO5J9VC2.uasset",
+				"C:/Users/pol.valverde/Desktop/MusicProj/prova/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/FV/0ORXDSHBYQOS2A920WHDXV.uasset",
+				"C:/Users/pol.valverde/Desktop/MusicProj/prova/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/OV/83W7IXH4TGHRI72ZDV4BUN.uasset",
+				"C:/Users/pol.valverde/Desktop/MusicProj/prova/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/pol.valverde/Desktop/MusicProj/prova/Content/Vehicles/SportsCar/Materials/M_SportsCar_Lights.uasset",
+				"C:/Users/pol.valverde/Desktop/MusicProj/prova/Content/mat/black.uasset",
+				"C:/Users/pol.valverde/Desktop/MusicProj/prova/Content/mat/black_2.uasset"
+			]
+		}
+	]
+}
